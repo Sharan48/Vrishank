@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="62" started-at="2022-04-18T18:47:23Z" finished-at="2022-04-18T18:47:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="62" started-at="2022-04-18T18:47:23Z" finished-at="2022-04-18T18:47:23Z">
+      <class name="sample.Demo1">
+        <test-method status="PASS" signature="fact()[pri:0, instance:sample.Demo1@7ca48474]" name="fact" duration-ms="15" started-at="2022-04-18T10:47:23Z" finished-at="2022-04-18T10:47:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fact -->
+        <test-method status="PASS" signature="fib()[pri:0, instance:sample.Demo1@7ca48474]" name="fib" duration-ms="0" started-at="2022-04-18T10:47:23Z" finished-at="2022-04-18T10:47:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fib -->
+      </class> <!-- sample.Demo1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
